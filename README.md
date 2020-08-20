@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there 👋 I'm Shivanshu
 
-<!--
-**Shivanshu10/Shivanshu10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey There, Welcome to my Github! I'm Shivanshu Mishra, an exploring and learning programming enthuasist from India, currently I am doing my enggnering in Computer Engineering from Thapar Institue of Engineering and Technology, Patiala. 
 
-Here are some ideas to get you started:
+**Talking about Personal Stuffs:**
+- Love to build with Python, C, C++, HTML, CSS, Bootstrap and Arduino;
+- I'm currently learning: Full Stack Web Development;
+- I’m looking for someone to collabrate on Awesome Projects;
+- Ask me about anything, I am happy to help;
+- Fun Fact: Never Stop Learning!!;
+- How to reach me: d0tc0m1@protonmail.com;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Want to learn:**
+- Bug Bounty Hunting
+- Machine Learning
+- Android and IOS Development > Flutter
+
+
+![Shivanshu's github stats](https://github-readme-stats.vercel.app/api?username=Shivanshu10&show_icons=true&hide_border=true)
