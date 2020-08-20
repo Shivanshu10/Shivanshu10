@@ -10,10 +10,10 @@ Hey There, Welcome to my Github! I'm Shivanshu Mishra, an exploring and learning
 - Fun Fact: Never Stop Learning!!;
 - How to reach me: d0tc0m1@protonmail.com;
 
-**Want to learn:**
+**Wish to learn:**
 - Bug Bounty Hunting
 - Machine Learning
-- Android and IOS Development > Flutter
+- Android and IOS Development
 
 
 ![Shivanshu's github stats](https://github-readme-stats.vercel.app/api?username=Shivanshu10&show_icons=true&hide_border=true)
