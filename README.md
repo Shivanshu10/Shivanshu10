@@ -6,7 +6,7 @@ Hey There, Welcome to my Github! I'm Shivanshu Mishra, an exploring and learning
 **Talking about Personal Stuffs:**
 - Love to build with Python, C, C++, HTML, CSS, Bootstrap, Arduino, Shell and Linux;
 - I'm currently learning: Full Stack Web Development;
-- I’m looking for someone to collabrate on Awesome Projects and a learning partner;
+- I’m looking for someone to collabrate on Awesome Projects and a learning Partner;
 - Ask me about anything, I am happy to help;
 - Fun Fact: Never Stop Learning!!;
 - How to reach me: d0tc0m1@protonmail.com;
