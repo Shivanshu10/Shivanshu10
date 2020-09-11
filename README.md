@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Shivanshu
 
-Hey There, Nice to see you, Hope you are doing Great :thumbsup:, Welcome to my Github! I'm Shivanshu Mishra 🤖, ..I am programming enthuasist from India 🇮🇳, I did my undergrad in Electronics and Communication Engineering 📡, currently I am doing my engineering in Computer Engineering :computer: from Thapar Institue of Engineering and Technology :school_satchel:, Patiala. 
+Nice to see you, Hope you are doing Great :thumbsup:, Welcome to my Github! I'm Shivanshu Mishra 🤖, ..I am programming enthuasist from India 🇮🇳, I did my undergrad in Electronics and Communication Engineering 📡, currently I am doing my engineering in Computer Engineering :computer: from Thapar Institue of Engineering and Technology :school_satchel:, Patiala. 
 <p>I love to explore and learn about new technology and get an insight on how they work 
 ⚙️, I am always learning and making projects as I learn and guides 📖 for beginners and for the community.</p>
 
@@ -35,5 +35,7 @@ Hey There, Nice to see you, Hope you are doing Great :thumbsup:, Welcome to my G
 - Ethereum
 - Kubernetes
 - Game Development
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanshu10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Shivanshu's github stats](https://github-readme-stats.vercel.app/api?username=Shivanshu10&show_icons=true&hide_border=true)
