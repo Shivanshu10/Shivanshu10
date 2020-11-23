@@ -3,15 +3,15 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=Shivanshu10.Shivanshu10)
 
 ### Hi 🙋‍♂️,
-#### Hope you are doing Great :thumbsup:, I'm Shivanshu Mishra, a programming enthuasist from India 🇮🇳. I love to explore and learn about new technology and get an insight on how they work ⚙️, I am always learning and making projects as I learn. I am obssed with the idea of improving myself and want a platform to grow and excel.
+**Hope you are doing Great :thumbsup:, I'm Shivanshu Mishra, a programming enthuasist from India 🇮🇳. I love to explore and learn about new technology and get an insight on how they work ⚙️, I am always learning and making projects as I learn. I am obssed with the idea of improving myself and want a platform to grow and excel.**
 
-#### - 🔭 SpaceX FanBoi;
-#### - 🛸 Into Hight Energy Physics;
-#### - 🛠 with Python, C, C++, Arduino, Shell, Git, Linux and VS Code;
-#### - 🥰 Music :headphones:, Anime :heart_eyes:, Programming :computer:
-#### - 👨🏻‍💻  I’m looking for someone to collabrate on Awesome Projects;
-#### - 💬 Ask me about anything, I am happy to help;
-#### - 📫 Connect Here 👉🏼 smishra10@protonmail.com;
+**- 🔭 SpaceX FanBoi;**
+**- 🛸 Into Hight Energy Physics;**
+**- 🛠 with Python, C, C++, Arduino, Shell, Git, Linux and VS Code;** 
+**- 🥰 Music :headphones:, Anime :heart_eyes:, Programming :computer:**
+**- 👨🏻‍💻  I’m looking for someone to collabrate on Awesome Projects;**
+**- 💬 Ask me about anything, I am happy to help;**
+**- 📫 Connect Here 👉🏼 smishra10@protonmail.com;**
 
 <br />
 
@@ -30,7 +30,7 @@
 
 ### Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanshu10&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515))]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanshu10&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
 ![Shivanshu's github stats](https://github-readme-stats.vercel.app/api?username=Shivanshu10&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
