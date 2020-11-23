@@ -1,19 +1,19 @@
-### 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! 👋
+### 𝐇i 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! 👋
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Shivanshu10.Shivanshu10)
 
 ### Hi 🙋‍♂️,
 #### Hope you are doing Great :thumbsup:, I'm Shivanshu Mishra, a programming enthuasist from India 🇮🇳. I love to explore and learn about new technology and get an insight on how they work ⚙️, I am always learning and making projects as I learn. I am obssed with the idea of improving myself and want a platform to grow and excel.
 
-  <img height="250" align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  <img height="250" align="right" border=10 alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-#### - 🔭 SpaceX FanBoi
-#### - 🛸 Into Hight Energy Physics
+#### - 🔭 SpaceX FanBoi;
+#### - 🛸 Into Hight Energy Physics;
 #### - 🛠 with Python, C, C++, Arduino, Shell, Git, Linux and VS Code;
 #### - 🥰 Music :headphones:, Anime :heart_eyes:, Programming :computer:
 #### - 👨🏻‍💻  I’m looking for someone to collabrate on Awesome Projects;
 #### - 💬 Ask me about anything, I am happy to help;
-#### - 📫 Conenct Here 👉🏼 smishra10@protonmail.com;
+#### - 📫 Connect Here 👉🏼 smishra10@protonmail.com;
 
 <br />
 
