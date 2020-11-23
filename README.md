@@ -5,13 +5,13 @@
 ### Hi 🙋‍♂️,
 **Hope you are doing Great :thumbsup:, I'm Shivanshu Mishra, a programming enthuasist from India 🇮🇳. I love to explore and learn about new technology and get an insight on how they work ⚙️, I am always learning and making projects as I learn. I am obssed with the idea of improving myself and want a platform to grow and excel.**
 
-**- 🔭 SpaceX FanBoi;**
-**- 🛸 Into Hight Energy Physics;**
-**- 🛠 with Python, C, C++, Arduino, Shell, Git, Linux and VS Code;** 
-**- 🥰 Music :headphones:, Anime :heart_eyes:, Programming :computer:**
-**- 👨🏻‍💻  I’m looking for someone to collabrate on Awesome Projects;**
-**- 💬 Ask me about anything, I am happy to help;**
-**- 📫 Connect Here 👉🏼 smishra10@protonmail.com;**
+**- 🔭 SpaceX FanBoi;**<br>
+**- 🛸 Into Hight Energy Physics;**<br>
+**- 🛠 with Python, C, C++, Arduino, Shell, Git, Linux and VS Code;** <br>
+**- 🥰 Music :headphones:, Anime :heart_eyes:, Programming :computer:** <br>
+**- 👨🏻‍💻  I’m looking for someone to collabrate on Awesome Projects;** <br>
+**- 💬 Ask me about anything, I am happy to help;** <br>
+**- 📫 Connect Here 👉🏼 smishra10@protonmail.com;** <br>
 
 <br />
 
