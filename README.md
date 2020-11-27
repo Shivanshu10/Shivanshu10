@@ -3,7 +3,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=Shivanshu10.Shivanshu10)
 
 ### Hi 🙋‍♂️,
-**Hope you are doing Great :thumbsup:, I'm Shivanshu Mishra, a programming enthuasist from India 🇮🇳. I love to explore and learn about new technology and get an insight on how they work ⚙️, I am always learning and making projects as I learn. I am obssed with the idea of improving myself and want a platform to grow and excel.**
+**Hope you are doing Great :thumbsup:, I'm Shivanshu Mishra, a programming enthuasist from India 🇮🇳. I love to explore and learn about new technology and get an insight on how they work ⚙️, I am always learning and making projects as I learn. I am obsessed with the idea of improving myself and want a platform to grow and excel.**
 
 **- 🔭 SpaceX FanBoi;**<br>
 **- 🛸 Into Hight Energy Physics;**<br>
