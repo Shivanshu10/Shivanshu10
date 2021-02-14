@@ -5,16 +5,12 @@
 
 <h2 align="center">About Me</h2>
 
-<hr align="center" color="#000000" width="100%">
-
 <p align="center">
 I'm Shivanshu Mishra, a programming enthusiast from India. I love to explore and learn about new technology and get an insight on how they work, I am always learning and making projects as I learn. I am obsessed with the idea of improving myself and want a platform to grow and excel.
 </p>
 
 
 <h2 align="center">I'm Into</h2>
-
-<hr align="center" color="#000000" width="100%">
 
 <p align="center">
 Machine Learning, Web Development, Pen Testing, App Development, Software Development, Decentralized Apps, Competitive Programming & Physics and Physics
@@ -54,6 +50,6 @@ Machine Learning, Web Development, Pen Testing, App Development, Software Develo
 </p>
 
 
-<h2 align="right">Thank You 🙏🏼</h2>
+<h4 align="right">Thank You 🙏🏼</h4>
 
 🥂 Cheers!
