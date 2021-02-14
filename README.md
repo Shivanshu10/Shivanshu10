@@ -1,25 +1,19 @@
-### 𝐇ey 👋, I'm [Shivanshu Mishra](https://github.com/Shivanshu10) 
+# 𝐇ey 👋, I'm [Shivanshu Mishra](https://github.com/Shivanshu10) 
 **Hope you are doing Great :thumbsup:**
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Shivanshu10.Shivanshu10)
 
-<hr>
-
-<h3 align="center">About Me</h3>
+<h2 align="center">About Me</h2>
 <p align="center">
 I'm Shivanshu Mishra, a programming enthusiast from India. I love to explore and learn about new technology and get an insight on how they work, I am always learning and making projects as I learn. I am obsessed with the idea of improving myself and want a platform to grow and excel.
 </p>
 
-<hr>
-
-<h3 align="center">I'm Into</h3>
+<h2 align="center">I'm Into</h2>
 <p align="center">
 Machine Learning, Web Development, Pen Testing, App Development, Software Development, Decentralized Apps, Competitive Programming & Physics and Physics
 </p>
 
-<hr>
-
-<h3 align="center">Development Stack</h3>
+<h2 align="center">Development Stack</h2>
 
 <p align="center">
   <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" alt="python-logo" height="5%" width="5%">
@@ -29,9 +23,7 @@ Machine Learning, Web Development, Pen Testing, App Development, Software Develo
   <img src="https://seeklogo.com/images/C/c-logo-1B1817C041-seeklogo.com.png" alt="cpp-logo" height="5%" width="5%">
 </p>
 
-<hr>
-
-<h3 align="right">Stats</h3>
+<h2 align="right">Stats</h2>
 
 <p>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanshu10&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="lang-stats" width="48%" height="16%">
@@ -41,9 +33,7 @@ Machine Learning, Web Development, Pen Testing, App Development, Software Develo
  <img src="https://github-readme-stats.vercel.app/api?username=Shivanshu10&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="github-stats" width="48%" height="16%">
 </p>
 
-<hr>
-
-<h3 align="center">Contact Me</h3>
+<h2 align="center">Contact Me</h2>
 <p align="center">
  <a href="mailto:smishra10@protonmail.com"><img align="center" src="https://simpleicons.org/icons/protonmail.svg" width="6%" height="6%" alt="protonmail"></a
  <a href="https://t.me/shivanshum10"><img align="center"  src="https://simpleicons.org/icons/telegram.svg" alt="telegram" width="6%" height="6%"></a>
@@ -54,6 +44,6 @@ Machine Learning, Web Development, Pen Testing, App Development, Software Develo
 
 <hr>
 
-<h3 align="right">Thank You-🙏🏼</h3>
+<h2 align="right">Thank You-🙏🏼</h2>
 
 🥂 Cheers!
