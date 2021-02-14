@@ -42,7 +42,7 @@ Machine Learning, Web Development, Pen Testing, App Development, Software Develo
 <h2 align="center">Contact Me</h2>
 
 <p align="center">
- <a href="mailto:smishra10@protonmail.com"><img align="center" src="https://simpleicons.org/icons/protonmail.svg" width="6%" height="6%" alt="protonmail"></a
+ <a href="mailto:smishra10@protonmail.com"><img align="center" src="https://simpleicons.org/icons/protonmail.svg" width="6%" height="6%" alt="protonmail"></a>
  <a href="https://t.me/shivanshum10"><img align="center"  src="https://simpleicons.org/icons/telegram.svg" alt="telegram" width="6%" height="6%"></a>
  <a href="https://www.hackerrank.com/d0tc0m"><img align="center"  src="https://simpleicons.org/icons/hackerrank.svg" alt="hackerank" width="6%" height="6%"></a>
  <a href="https://www.codechef.com/users/mshivanshu10"><img align="center"  src="https://simpleicons.org/icons/codechef.svg" alt="codechef" width="6%" height="6%"></a>
