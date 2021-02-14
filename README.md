@@ -1,42 +1,64 @@
-### 𝐇i 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! 👋
+### 𝐇ey 👋, I'm [Shivanshu Mishra](https://github.com/Shivanshu10) 
+**Hope you are doing Great :thumbsup:**
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Shivanshu10.Shivanshu10)
 
-### Hi 🙋‍♂️,
-**Hope you are doing Great :thumbsup:, I'm Shivanshu Mishra, a programming enthuasist from India 🇮🇳. I love to explore and learn about new technology and get an insight on how they work ⚙️, I am always learning and making projects as I learn. I am obsessed with the idea of improving myself and want a platform to grow and excel.**
+<h3 align="center">About Me</h3>
+<p align="center">
+I'm Shivanshu Mishra, a programming enthusiast from India. I love to explore and learn about new technology and get an insight on how they work, I am always learning and making projects as I learn. I am obsessed with the idea of improving myself and want a platform to grow and excel.
+</p>
 
-**- 🔭 SpaceX FanBoi;**<br>
-**- 🛸 Into Hight Energy Physics;**<br>
-**- 🛠 with Python, C, C++, Arduino, Shell, Git, Linux and VS Code;** <br>
-**- 🥰 Music :headphones:, Anime :heart_eyes:, Programming :computer:** <br>
-**- 👨🏻‍💻  I’m looking for someone to collabrate on Awesome Projects;** <br>
-**- 💬 Ask me about anything, I am happy to help;** <br>
-**- 📫 Connect Here 👉🏼 smishra10@protonmail.com;** <br>
-
-<br />
-
-**I am Into , 🙏**
-
-**Machine Learning, Web Development, Pen Testing, App Development, Software Development, Decentralized Apps, Competetive Programming & Physics and Physics 😼**
 <hr>
 
-### Languages and Tools...
+<h3 align="center">I'm Into</h3>
+<p align="center">
+Machine Learning, Web Development, Pen Testing, App Development, Software Development, Decentralized Apps, Competitive Programming & Physics and Physics
+</p>
+
+<hr>
+
+<h3 align="center">Development Stack</h3>
+
+<p align="center">
+  <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" alt="python-logo" height="5%" width="5%">
+  
+  <img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" alt="vscode-logo" height="5%" width="5%">
+  
+  <img src="https://seeklogo.com/images/G/github-logo-7880D80B8D-seeklogo.com.png" alt="github-logo" height="5%" width="5%">
+  
+  <img src="https://seeklogo.com/images/L/Linux_Tux-logo-DA252F3C21-seeklogo.com.png" alt="linux-logo" height="5%" width="5%">
+  
+  <img src="https://seeklogo.com/images/C/c-logo-1B1817C041-seeklogo.com.png" alt="cpp-logo" height="5%" width="5%">
+  
+</p>
+
+<br>
+
+<hr>
+
+<h3 align="right">Stats</h3>
 
 <p>
- <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" style="vertical-align:top; margin:4px"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="C" style="vertical-align:top; margin:4px"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="Cpp" style="vertical-align:top; margin:4px"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="Bash" style="vertical-align:top; margin:4px"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" style="vertical-align:top; margin:4px"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" style="vertical-align:top; margin:4px"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" alt="Arduino" style="vertical-align:top; margin:4px"><img height="40" src="https://camo.githubusercontent.com/d4dcf8fd2bf82734a52774ae132c387357221a5d144ef0356e52c66a2d9f41e9/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f76697375616c2d73747564696f2d636f64652e737667" alt="VS Code" style="vertical-align:top; margin:4px">
-
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanshu10&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="lang-stats" width="48%" height="16%">
 </p>
-<hr>
 
-### Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanshu10&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-
-![Shivanshu's github stats](https://github-readme-stats.vercel.app/api?username=Shivanshu10&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<p align="right">
+ <img src="https://github-readme-stats.vercel.app/api?username=Shivanshu10&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="github-stats" width="48%" height="16%">
+</p>
 
 <hr>
 
-#### Thank You-🙏🏼
+<h3 align="center">Contact Me</h3>
+<p align="center">
+ <a href="mailto:smishra10@protonmail.com"><img align="center" src="https://simpleicons.org/icons/protonmail.svg" width="6%" height="6%" alt="protonmail"></a
+ <a href="https://t.me/shivanshum10"><img align="center"  src="https://simpleicons.org/icons/telegram.svg" alt="telegram" width="6%" height="6%"></a>
+ <a href="https://www.hackerrank.com/d0tc0m"><img align="center"  src="https://simpleicons.org/icons/hackerrank.svg" alt="hackerank" width="6%" height="6%"></a>
+ <a href="https://www.codechef.com/users/mshivanshu10"><img align="center"  src="https://simpleicons.org/icons/codechef.svg" alt="codechef" width="6%" height="6%"></a>
+ <a href="https://www.hackthebox.eu/home/users/profile/495276"><img align="center"  src="https://simpleicons.org/icons/hackthebox.svg" alt="hackthebox" width="6%" height="6%"></a>
+</p>
 
-⭐️ From [Shivanshu10](https://github.com/Shivanshu10)
+<hr>
+
+<h3 align="right">Thank You-🙏🏼</h3>
+
+🥂 Cheers!
