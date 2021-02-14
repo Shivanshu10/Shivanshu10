@@ -3,7 +3,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Shivanshu10.Shivanshu10)
 
-<h3 align="center">About Me</h3>
+<h2 align="center">About Me</h2>
 
 <hr align="center" color="#000000" width="100%">
 
@@ -12,7 +12,7 @@ I'm Shivanshu Mishra, a programming enthusiast from India. I love to explore and
 </p>
 
 
-<h3 align="center">I'm Into</h3>
+<h2 align="center">I'm Into</h2>
 
 <hr align="center" color="#000000" width="100%">
 
@@ -21,9 +21,7 @@ Machine Learning, Web Development, Pen Testing, App Development, Software Develo
 </p>
 
 
-<h3 align="center">Development Stack</h3>
-
-<hr align="center" color="#000000" width="100%">
+<h2 align="center">Development Stack</h2>
 
 <p align="center">
   <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" alt="python-logo" height="5%" width="5%">
@@ -34,9 +32,7 @@ Machine Learning, Web Development, Pen Testing, App Development, Software Develo
 </p>
 
 
-<h3 align="right">Stats</h3>
-
-<hr align="right" color="#000000" width="100%">
+<h2 align="right">Stats</h2>
 
 <p>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanshu10&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="lang-stats" width="48%" height="16%">
@@ -47,9 +43,7 @@ Machine Learning, Web Development, Pen Testing, App Development, Software Develo
 </p>
 
 
-<h3 align="center">Contact Me</h3>
-
-<hr align="center" color="#000000" width="100%">
+<h2 align="center">Contact Me</h2>
 
 <p align="center">
  <a href="mailto:smishra10@protonmail.com"><img align="center" src="https://simpleicons.org/icons/protonmail.svg" width="6%" height="6%" alt="protonmail"></a
@@ -60,8 +54,6 @@ Machine Learning, Web Development, Pen Testing, App Development, Software Develo
 </p>
 
 
-<h4 align="right">Thank You 🙏🏼</h4>
-
-<hr align="right" color="#000000" width="100%">
+<h2 align="right">Thank You 🙏🏼</h2>
 
 🥂 Cheers!
