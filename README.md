@@ -3,6 +3,8 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Shivanshu10.Shivanshu10)
 
+<hr>
+
 <h3 align="center">About Me</h3>
 <p align="center">
 I'm Shivanshu Mishra, a programming enthusiast from India. I love to explore and learn about new technology and get an insight on how they work, I am always learning and making projects as I learn. I am obsessed with the idea of improving myself and want a platform to grow and excel.
@@ -21,18 +23,11 @@ Machine Learning, Web Development, Pen Testing, App Development, Software Develo
 
 <p align="center">
   <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" alt="python-logo" height="5%" width="5%">
-  
   <img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" alt="vscode-logo" height="5%" width="5%">
-  
   <img src="https://seeklogo.com/images/G/github-logo-7880D80B8D-seeklogo.com.png" alt="github-logo" height="5%" width="5%">
-  
-  <img src="https://seeklogo.com/images/L/Linux_Tux-logo-DA252F3C21-seeklogo.com.png" alt="linux-logo" height="5%" width="5%">
-  
+  <img src="https://seeklogo.com/images/L/Linux_Tux-logo-DA252F3C21-seeklogo.com.png" alt="linux-logo" height="5%" width="5%">  
   <img src="https://seeklogo.com/images/C/c-logo-1B1817C041-seeklogo.com.png" alt="cpp-logo" height="5%" width="5%">
-  
 </p>
-
-<br>
 
 <hr>
 
