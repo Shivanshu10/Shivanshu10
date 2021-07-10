@@ -30,11 +30,11 @@ Machine Learning, Web Development, Pen Testing, App Development, Software Develo
   <img src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png" alt="bootstrap-logo" height="5%" width="5%">
   <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="java-logo" height="5%" width="5%">
   <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" alt="react-logo" height="5%" width="5%">
-  <img src="https://seeklogo.com/images/M/mongodb-logo-4A71340576-seeklogo.com.png" alt="mongodb-logo" height="5%" width="5%">
+  <img src="https://seeklogo.com/images/M/mongodb-logo-4A71340576-seeklogo.com.png alt="mongodb-logo" height="5%" width="5%">
   <img src="https://seeklogo.com/images/N/nodejs-logo-D26404F360-seeklogo.com.png" alt="nodejs-logo" height="5%" width="5%">
   <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" alt="js-logo" height="5%" width="5%">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras-logo" height="5%" width="5%">
-  <img src="https://seeklogo.com/images/T/tensorflow-logo-AE5100E55E-seeklogo.com.png" alt="tensorflow-logo" height="5%" width="5%">
+  <img src="https://seeklogo.com/images/T/tensorflow-logo-02FCED4F98-seeklogo.com.png" alt="tensorflow-logo" height="5%" width="5%">
   <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="expressjs-logo" height="5%" width="5%">
 </p>
 
