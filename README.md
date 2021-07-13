@@ -40,11 +40,11 @@ Machine Learning, Web Development, Pen Testing, App Development, Software Develo
 <h2 align="right">Stats</h2>
 
 <p>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanshu10&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="lang-stats" width="48%" height="16%">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanshu10&layout=compact&theme=radical" alt="lang-stats" width="48%" height="16%">
 </p>
 
 <p align="right">
- <img src="https://github-readme-stats.vercel.app/api?username=Shivanshu10&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="github-stats" width="48%" height="16%">
+ <img src="https://github-readme-stats.vercel.app/api?username=Shivanshu10&show_icons=true&theme=radical" alt="github-stats" width="48%" height="16%">
 </p>
 
 
