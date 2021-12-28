@@ -1,4 +1,4 @@
-# 𝐇ey 👋, I'm [Shivanshu Mishra](https://github.com/Shivanshu10) 
+# Konichiwa 👋, I'm [Shivanshu Mishra](https://github.com/Shivanshu10) 
 **Hope you are doing Great :thumbsup:**
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Shivanshu10.Shivanshu10)
@@ -32,8 +32,9 @@ Machine Learning, Web Development, Pen Testing, App Development, Software Develo
   <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" alt="react-logo" height="5%" width="5%">
   <img src="https://seeklogo.com/images/N/nodejs-logo-D26404F360-seeklogo.com.png" alt="nodejs-logo" height="5%" width="5%">
   <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" alt="js-logo" height="5%" width="5%">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras-logo" height="5%" width="5%">
-  <img src="https://seeklogo.com/images/T/tensorflow-logo-02FCED4F98-seeklogo.com.png" alt="tensorflow-logo" height="5%" width="5%">
+  <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" alt="reactjs-logo" height="5%" width="5%">
+  <img src="https://seeklogo.com/images/M/mongodb-logo-4A71340576-seeklogo.com.png" alt="mongodb-logo" height="5%" width="5%">
+  <img src="https://seeklogo.com/images/G/golang-go-logo-F87103EF81-seeklogo.com.png" alt="golang-logo" height="5%" width="5%">
 </p>
 
 
