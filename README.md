@@ -33,8 +33,9 @@ Machine Learning, Web Development, Pen Testing, App Development, Software Develo
   <img src="https://seeklogo.com/images/N/nodejs-logo-D26404F360-seeklogo.com.png" alt="nodejs-logo" height="5%" width="5%">
   <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" alt="js-logo" height="5%" width="5%">
   <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" alt="reactjs-logo" height="5%" width="5%">
-  <img src="https://seeklogo.com/images/M/mongodb-logo-4A71340576-seeklogo.com.png" alt="mongodb-logo" height="5%" width="5%">
-  <img src="https://seeklogo.com/images/G/golang-go-logo-F87103EF81-seeklogo.com.png" alt="golang-logo" height="5%" width="5%">
+  <img src="https://www.logolynx.com/images/logolynx/s_99/991650c8d4d9179da5a7432655fb2b0e.png" alt="mongodb-logo" height="6%" width="6%">
+  <img src="https://www.logolynx.com/images/logolynx/f9/f9f8a10fa731a53e0ac5ecf127d31909.png" alt="golang-logo" height="8%" width="5%">
+  <img src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" alt="flutter-logo" height="4%" width="4%">
 </p>
 
 
