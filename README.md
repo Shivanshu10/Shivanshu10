@@ -9,36 +9,6 @@
 I'm Shivanshu Mishra, a programming enthusiast from India. I love to explore and learn about new technology and get an insight on how they work, I am always learning and making projects as I learn. I am obsessed with the idea of improving myself and want a platform to grow and excel.
 </p>
 
-
-<h2 align="center">I'm Into</h2>
-
-<p align="center">
-Machine Learning, Web Development, Pen Testing, App Development, Software Development, Decentralized Apps, Competitive Programming & Physics and Physics
-</p>
-
-
-<h2 align="center">Development Stack</h2>
-
-<p align="center">
-  <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" alt="python-logo" height="5%" width="5%">
-  <img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" alt="vscode-logo" height="5%" width="5%">
-  <img src="https://seeklogo.com/images/G/github-logo-7880D80B8D-seeklogo.com.png" alt="github-logo" height="5%" width="5%">
-  <img src="https://seeklogo.com/images/L/Linux_Tux-logo-DA252F3C21-seeklogo.com.png" alt="linux-logo" height="5%" width="5%">  
-  <img src="https://seeklogo.com/images/C/c-logo-1B1817C041-seeklogo.com.png" alt="cpp-logo" height="5%" width="5%">
-  <img src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" alt="html-logo" height="5%" width="5%">
-  <img src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" alt="css-logo" height="5%" width="5%">
-  <img src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png" alt="bootstrap-logo" height="5%" width="5%">
-  <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="java-logo" height="5%" width="5%">
-  <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" alt="react-logo" height="5%" width="5%">
-  <img src="https://seeklogo.com/images/N/nodejs-logo-D26404F360-seeklogo.com.png" alt="nodejs-logo" height="5%" width="5%">
-  <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" alt="js-logo" height="5%" width="5%">
-  <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" alt="reactjs-logo" height="5%" width="5%">
-  <img src="https://www.logolynx.com/images/logolynx/s_99/991650c8d4d9179da5a7432655fb2b0e.png" alt="mongodb-logo" height="6%" width="6%">
-  <img src="https://www.logolynx.com/images/logolynx/f9/f9f8a10fa731a53e0ac5ecf127d31909.png" alt="golang-logo" height="8%" width="5%">
-  <img src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" alt="flutter-logo" height="4%" width="4%">
-</p>
-
-
 <h2 align="right">Stats</h2>
 
 <p>
